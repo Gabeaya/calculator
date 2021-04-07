@@ -11,6 +11,8 @@ _The page uses an assortment of functions for each individual operation. In orde
 * _To open the browser page, click the calculator.html file_
 * _Once open you are prompted to enter two numbers_
 * _Completing this step will add the two numbers for now._
+## Github Pages Link
+_https://gabeaya.github.io/calculator/_
 ## Known Bugs
 * _none_
 ## License
