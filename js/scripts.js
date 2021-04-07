@@ -1,11 +1,16 @@
 function add(number1, number2) {
   return number1 + number2;
 }
-undefined
+function subtract(number1, number2) {
+  return number1 - number2;
+}
+function multiply(number1, number2) {
+  return number1 * number2;
+}
+function divide(number1, number2) {
+  return number1 * number2;
+}
 const number1 = parseInt(prompt("Enter a number:"));
-undefined
 const number2 = parseInt(prompt("Enter another number:"));
 
-undefined
 alert(add(number1, number2));
-undefined
