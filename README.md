@@ -14,7 +14,7 @@ _The page uses an assortment of functions for each individual operation. In orde
 ## Github Pages Link
 _https://gabeaya.github.io/calculator/_
 ## Known Bugs
-* _none_
+* _In order to access the subtraction, multiplication, and division functions, the designer must create a user interface which will be fixed later on._
 ## License
 _Distributed under the MIT License. See LICENSE for more information._
 ## Contact Information
